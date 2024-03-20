@@ -21,10 +21,6 @@ Este proyecto es un lugar donde puedo explorar y compartir mis ideas y código. 
 - 📦 Contribuyendo con código a través de pull requests.
 - 👍 Compartiendo este proyecto con otras personas.
 
-## ¿Dónde puedo encontrar más información?
-
-Puedes echar un vistazo a la documentación del proyecto en [Wiki](wiki) para obtener más detalles sobre cómo comenzar, las características del proyecto y más.
-
 ## Contacto
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o solo quieres charlar! Puedes encontrarme en [manu.interamplify@gmail.com](mailto:manu.interamplify@gmail.com) o a través de [mi perfil de GitHub](https://github.com/manuoterok).
