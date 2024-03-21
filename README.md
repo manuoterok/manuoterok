@@ -4,25 +4,34 @@
 
 ## Acerca de este proyecto
 
-Este proyecto es un lugar donde puedo explorar y compartir mis ideas y código. Aquí encontrarás una variedad de cosas, desde pequeños scripts hasta proyectos más grandes en los que estoy trabajando. ¡Espero que encuentres algo interesante!
+Este repositorio es el espacio donde comparto y desarrollo mis ideas y código. Aquí podrás encontrar desde pequeños scripts hasta proyectos más complejos en los que estoy trabajando. ¡Espero que encuentres algo que te resulte interesante!
 
-## ¿Por qué este proyecto es especial?
+## ¿Qué hace especial a este proyecto?
 
-- 💡 Aquí puedo expresar mi creatividad y aprender nuevas habilidades.
-- 🤝 Me encantaría recibir tus comentarios y sugerencias.
-- 🚀 Juntos podemos construir algo increíble.
+- 💡 Aquí puedo dar rienda suelta a mi creatividad y seguir aprendiendo nuevas habilidades.
+- 🤝 Aprecio mucho tus comentarios y sugerencias, ¡son fundamentales para mejorar!
+- 🚀 Creo firmemente que juntos podemos construir algo increíble.
 
 ## ¿Cómo puedes contribuir?
 
-¡Me alegra que preguntes! Aquí hay algunas formas en las que puedes contribuir:
+¡Me alegra que quieras contribuir! Aquí te dejo algunas formas en las que puedes hacerlo:
 
-- 🐛 Reportando errores o problemas.
-- 💡 Compartiendo tus ideas y sugerencias.
+- 🐛 Reportando errores o problemas que encuentres.
+- 💡 Compartiendo tus ideas y sugerencias para seguir mejorando.
 - 📦 Contribuyendo con código a través de pull requests.
-- 👍 Compartiendo este proyecto con otras personas.
+- 👍 Compartiendo este proyecto con otras personas para ampliar nuestra comunidad.
+
+## Acerca de mí
+
+Soy un profesional con formación en el ciclo superior de Desarrollo de Aplicaciones Web (DAW), con conocimientos en HTML, CSS, WordPress, SQL, PHP, y una pasión especial por la microinformática.
 
 ## Contacto
 
-¡No dudes en contactarme si tienes alguna pregunta, sugerencia o solo quieres charlar! Puedes encontrarme en [manu.interamplify@gmail.com](mailto:manu.interamplify@gmail.com) o a través de [mi perfil de GitHub](https://github.com/manuoterok).
+¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar! Puedes encontrarme en:
+
+- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/jose-manuel-otero-kekaew/)
+- Twitter: [Tu perfil de Twitter](https://twitter.com/Manu_Interampli)
+- GitHub: [Tu perfil de GitHub](https://github.com/manuoterok)
+- Correo electrónico: [manu.interamplify@gmail.com](mailto:manu.interamplify@gmail.com)
 
 ¡Gracias por visitar mi repositorio! Espero que disfrutes explorando mi trabajo tanto como yo disfruté creándolo. ¡Hasta pronto! 👋
