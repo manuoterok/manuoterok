@@ -29,9 +29,9 @@ Soy un profesional con formación en el ciclo superior de Desarrollo de Aplicaci
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar! Puedes encontrarme en:
 
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/jose-manuel-otero-kekaew/)
-- Twitter: [Tu perfil de Twitter](https://twitter.com/Manu_Interampli)
-- GitHub: [Tu perfil de GitHub](https://github.com/manuoterok)
+- LinkedIn: (https://www.linkedin.com/in/jose-manuel-otero-kekaew/)
+- Twitter: (https://twitter.com/Manu_Interampli)
+- GitHub: (https://github.com/manuoterok)
 - Correo electrónico: [manu.interamplify@gmail.com](mailto:manu.interamplify@gmail.com)
 
 ¡Gracias por visitar mi repositorio! Espero que disfrutes explorando mi trabajo tanto como yo disfruté creándolo. ¡Hasta pronto! 👋
